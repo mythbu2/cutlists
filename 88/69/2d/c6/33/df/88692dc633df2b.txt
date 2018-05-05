@@ -1,0 +1,36 @@
+[General]
+Application=Cut_assistant.exe
+Version=0.9.13.14
+comment1=Die folgenden Teile des Films bleiben erhalten, der Rest wird ausgeschnitten. Alle Werte in Sekunden.
+ApplyToFile=Agatha_Raisin_S01E04_17.02.24_22-30_zdfneo_45_TVOON_DE.mpg.HD.avi
+OriginalFileSizeBytes=827721066
+FramesPerSecond=50
+IntendedCutApplicationName=VirtualDub
+IntendedCutApplication=VirtualDub.exe
+IntendedCutApplicationVersion=1.7.8.0
+VDUseSmartRendering=1
+VDSmartRenderingCodecFourCC=0x53444646
+VDSmartRenderingCodecVersion=0x00000000
+NoOfCuts=1
+comment2=
+
+[Info]
+Author=Pringls
+RatingByAuthor=5
+EPGError=0
+ActualContent=
+MissingBeginning=0
+MissingEnding=0
+MissingVideo=0
+MissingAudio=0
+OtherError=0
+OtherErrorDescription=
+SuggestedMovieName=
+UserComment=Mit ColdCut geschnitten
+
+[Cut0]
+Start=471.04
+Duration=2568.18
+
+StartFrame=23552
+DurationFrames=128409
